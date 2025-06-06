@@ -18,26 +18,25 @@ A modern, responsive online food ordering web application built using **ReactJS*
 - **State Management:** React hooks (useState, useEffect, useContext)
 - **Routing:** React Router
 
-## 📸 Screenshots
 
-> Add your screenshots here if you have any (optional)
 
 ## 📂 Folder Structure
 
-```bash
-src/
-├── components/       # Reusable components (Navbar, Card, etc.)
-├── pages/            # Page-level components (Home, Restaurant, Cart)
-├── context/          # Global state using Context API
-├── utils/            # Utility functions
+
+src/   
+├── components/       # Reusable components (Navbar, Card, etc.)   
+├── pages/            # Page-level components (Home, Restaurant, Cart)   
+├── context/          # Global state using Context API    
+├── utils/            # Utility functions   
 └── App.js            # Main app component
 
 
-Prerequisites
-Node.js and npm installed
 
-Installation
-git clone https://github.com/yourusername/react-onlineFoodOrdering.git
-cd online-food-ordering
-npm install
-npm run dev
+Prerequisites   
+Node.js and npm installed    
+
+Installation    
+git clone https://github.com/yourusername/react-onlineFoodOrdering.git    
+cd oreact-onlineFoodOrdering   
+npm install   
+npm run dev   
